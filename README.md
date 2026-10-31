@@ -13,19 +13,19 @@ https://pannellum.org/
 #### Street
 [![ghost city](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/street.webp) 
 #### Future city
-[![future city](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/cityscape4.png) 
+[![future city](cityscape4.png)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/cityscape4.png) 
 #### Desert
-[![desert](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/desert.webp) 
+[![desert](desert.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/desert.webp) 
 #### Lampions
-[![lampions](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/lampions.webp) 
+[![lampions](lampions.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/lampions.webp) 
 #### Lazure
-[![lazure](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/lazure.webp) 
+[![lazure](lazure.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/lazure.webp) 
 #### Machu Pichu
-[![machu-pichu](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/machu-pichu.webp) 
+[![machu-pichu](machu-pichu.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/machu-pichu.webp) 
 #### Library
-[![public library](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/public-library.webp) 
+[![public library](public-library.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/public-library.webp) 
 #### Public
-[![public](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/public.webp) 
+[![public](public.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/public.webp) 
 
 
 ---

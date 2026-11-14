@@ -26,9 +26,11 @@ https://pannellum.org/
 </p>
 
 #### Heritage
+<p>
 <img src="Heritage/lampions.webp" alt="Lampions" height="100"/>
 <img src="Heritage/machu-pichu.webp" alt="Lampions" height="100"/>
 <img src="Heritage/public-library.webp" alt="Library" height="100"/>
+</p>
 
 #### Public
 

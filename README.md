@@ -2,6 +2,12 @@
 
 https://pannellum.org/
 
+
+<figure>
+  <img src="FantasyStreet.jpg" alt="Description">
+  <figcaption>Figure Fantasy street.</figcaption>
+</figure>
+
 #### Fantasy street
 [![street](FantasyStreet.jpg)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/FantasyStreet.jpg)   
 #### Dust

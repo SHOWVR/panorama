@@ -31,6 +31,7 @@ https://pannellum.org/
 <img src="Heritage/machu-pichu.webp" alt="Lampions" height="100"/>
 <img src="Heritage/public-library.webp" alt="Library" height="100"/>
 <img src="Heritage/desert.webp" alt="desert" height="100"/>
+<img src="Heritage/SAM_Sample_0002.jpg" alt="Concert hall" height="100"/>
 </p>
 
 #### Space

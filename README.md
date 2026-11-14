@@ -11,6 +11,9 @@ https://pannellum.org/
 #### Nature
 <a href="https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/Nature/forest.webp"><img src="Nature/forest.webp" alt="Forest" height="100"></a>
 
+#### Game
+<img src="Game/mc-env.webp" alt="Minecraft" height="100">
+
 
 [![forest]()](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/forest.webp)   
 #### Minecraft

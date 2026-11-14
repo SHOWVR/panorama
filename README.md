@@ -5,10 +5,8 @@ https://pannellum.org/
 
 
 #### Fantasy
-<p>
   <img src="Fantasy/FantasyStreet.jpg" alt="Fantasy street" height="100">
-  <img src="dust-2.webp" alt="Dust" height="100">
-</p>
+  <img src="Fantasy/dust-2.webp" alt="Dust" height="100">
 
 #### Nature
 <a href="https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/Nature/forest.webp"><img src="Nature/forest.webp" alt="Forest" height="100"></a>

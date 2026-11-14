@@ -6,7 +6,7 @@ https://pannellum.org/
 
 #### Fantasy
 <p>
-  <img src="FantasyStreet.jpg" alt="Fantasy street" height="100">
+  <img src="Fantasy/FantasyStreet.jpg" alt="Fantasy street" height="100">
   <img src="dust-2.webp" alt="Dust" height="100">
 </p>
 

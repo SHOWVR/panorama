@@ -16,16 +16,13 @@ https://pannellum.org/
 <img src="Nature/forest.webp" alt="Forest" height="100"/>
 <img src="Nature/desert.webp" alt="Desert" height="100"/>
 </p>
+
 #### Game
 <p>
 <img src="Game/mc-env.webp" alt="Minecraft" height="100"/>
 <img src="Game/street.webp" alt="Street" height="100"/>
 </p>
-[![ghost city](street.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/street.webp) 
-#### Future city
-[![future city](cityscape4.png)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/cityscape4.png) 
-#### Desert
-[![desert](desert.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/desert.webp) 
+
 #### Lampions
 [![lampions](lampions.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/lampions.webp) 
 #### Lazure

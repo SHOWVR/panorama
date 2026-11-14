@@ -5,6 +5,9 @@ https://pannellum.org/
 
 
 #### Fantasy
+
+[![forest](/Fantasy/FantasyStreet.jpg)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/forest.webp)   
+
   <img src="/Fantasy/FantasyStreet.jpg" alt="FantasyStreet" height="100"/>
 
 

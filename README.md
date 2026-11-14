@@ -4,7 +4,7 @@ https://pannellum.org/
 
 
 <figure>
-  <img src="FantasyStreet.jpg" alt="Description">
+  <img src="FantasyStreet.jpg" alt="Fantasy street" height="100">
   <figcaption>Figure Fantasy street.</figcaption>
 </figure>
 

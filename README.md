@@ -34,9 +34,9 @@ https://pannellum.org/
 
 #### Space
 <p>
-  <img src="Heritage/starfield.png" alt="Starfield" height="100"/>
-  <img src="Heritage/Stars_Tycho2+Milkyway_3000.png" alt="Milkyway" height="100"/>
-  <img src="Heritage/eso0932a" alt="eso" height="100"/>
+  <img src="Space/starfield.png" alt="Starfield" height="100"/>
+  <img src="Space/Stars_Tycho2+Milkyway_3000.png" alt="Milkyway" height="100"/>
+  <img src="Space/eso0932a" alt="eso" height="100"/>
 </p>
 
 ---

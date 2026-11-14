@@ -32,7 +32,12 @@ https://pannellum.org/
 <img src="Heritage/desert.webp" alt="desert" height="100"/>
 </p>
 
-#### Public
+#### Space
+<p>
+  <img src="Heritage/Stars_Tycho2+Milkyway_3000.png" alt="Milkyway" height="100"/>
+  <img src="Heritage/eso0932a" alt="eso" height="100"/>
+  <img src="Heritage/starfield.png" alt="Starfield" height="100"/>
+</p>
 
 ---
 ### Links

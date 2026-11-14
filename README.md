@@ -6,14 +6,8 @@ https://pannellum.org/
 
 #### Fantasy
 <p>
-<figure>
   <img src="FantasyStreet.jpg" alt="Fantasy street" height="100">
-  <figcaption>Figure Fantasy street.</figcaption>
-</figure>
-<figure>
   <img src="dust-2.webp" alt="Dust" height="100">
-  <figcaption>Dust.</figcaption>
-</figure>
 </p>
 
 [![dust](dust-2.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/dust-2.webp)   

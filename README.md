@@ -7,9 +7,6 @@ https://pannellum.org/
 #### Fantasy
 
   <img src="/Fantasy/FantasyStreet.jpg" alt="FantasyStreet" height="100"/>
-
-
-
   <img src="/Fantasy/cityscape4.png" alt="Cityscape" height="100"/>
 
 #### Nature

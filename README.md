@@ -15,6 +15,7 @@ https://pannellum.org/
 <p>
 <img src="Nature/forest.webp" alt="Forest" height="100"/>
 <img src="Nature/desert.webp" alt="Desert" height="100"/>
+<img src="Nature/deserlazure.webp" alt="Lazure" height="100"/>
 </p>
 
 #### Game
@@ -23,14 +24,11 @@ https://pannellum.org/
 <img src="Game/street.webp" alt="Street" height="100"/>
 </p>
 
-#### Lampions
-[![lampions](lampions.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/lampions.webp) 
-#### Lazure
-[![lazure](lazure.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/lazure.webp) 
-#### Machu Pichu
-[![machu-pichu](machu-pichu.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/machu-pichu.webp) 
-#### Library
-[![public library](public-library.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/public-library.webp) 
+#### Heritage
+<img src="Heritage/street.webp" alt="Lampions" height="100"/>
+<img src="Heritage/machu-pichu.webp" alt="Lampions" height="100"/>
+<img src="Heritage/public-library.webp" alt="Library" height="100"/>
+
 #### Public
 [![public](public.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/public.webp) 
 

@@ -15,7 +15,8 @@ https://pannellum.org/
 <p>
 <img src="Nature/forest.webp" alt="Forest" height="100"/>
 <img src="Nature/desert.webp" alt="Desert" height="100"/>
-<img src="Nature/deserlazure.webp" alt="Lazure" height="100"/>
+<img src="Nature/Dune.webp" alt="Dune" height="100"/>
+<img src="Nature/lazure.webp" alt="Lazure" height="100"/>
 </p>
 
 #### Game
@@ -30,9 +31,6 @@ https://pannellum.org/
 <img src="Heritage/public-library.webp" alt="Library" height="100"/>
 
 #### Public
-[![public](public.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/public.webp) 
-
-<img src="Space/eso0932a.jpg" height="100" />
 
 ---
 ### Links

@@ -11,7 +11,7 @@ https://pannellum.org/
 </p>
 
 #### Nature
-<a href="https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/forest.webp"><img src="forest.webp" alt="Forest" height="100"></a>
+<a href="https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/Nature/forest.webp"><img src="Nature/forest.webp" alt="Forest" height="100"></a>
 
 
 [![forest]()](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/forest.webp)   

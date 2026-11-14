@@ -10,9 +10,11 @@ https://pannellum.org/
   <img src="dust-2.webp" alt="Dust" height="100">
 </p>
 
-[![dust](dust-2.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/dust-2.webp)   
-#### Forest
-[![forest](forest.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/forest.webp)   
+#### Nature
+<a href="https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/forest.webp"><img src="forest.webp" alt="Forest" height="100"></a>
+
+
+[![forest]()](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/forest.webp)   
 #### Minecraft
 [![maincraft](mc-env.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/mc-env.webp)   
 #### Street

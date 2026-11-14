@@ -27,7 +27,7 @@ https://pannellum.org/
 #### Public
 [![public](public.webp)](https://raw.githubusercontent.com/SHOWVR/panorama/refs/heads/main/public.webp) 
 
-<img src="eso0932a.jpg" height="100" />
+<img src="/Space/eso0932a.jpg" height="100" />
 
 ---
 ### Links

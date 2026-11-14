@@ -41,6 +41,10 @@ https://pannellum.org/
   <img src="Space/eso0932a.jpg" alt="eso" height="100"/>
 </p>
 
+#### Casual
+<p>
+  <img src="Space/SAM_Sample_0001.jpg" alt="Picnic" height="100"/>
+</p>
 ---
 ### Links
 - https://panopulse.com/

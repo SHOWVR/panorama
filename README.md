@@ -20,6 +20,7 @@ https://pannellum.org/
 <img src="https://pannellum.org/images/cerro-toco-0.jpg" alt="Cerro-toco" height="100"/>
 <img src="https://i.imgur.com/G7t9QD9.jpg" alt="desert" height="100"/>
 <img src="https://pannellum.org/images/tocopilla.jpg" alt="tocopilla" height="100"/>
+<img src="https://pannellum.org/images/lascar.jpg" alt="Lascar" height="100"/>
 </p>
 
 #### Game

@@ -39,7 +39,7 @@ https://pannellum.org/
   <img src="Space/starfield.png" alt="Starfield" height="100"/>
   <img src="Space/Stars_Tycho2+Milkyway_3000.png" alt="Milkyway" height="100"/>
   <img src="Space/eso0932a.jpg" alt="eso" height="100"/>
-  <img src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https://pannellum.org/images/alma.jpg" alt="Antenas" height="100"/>
+  <img src="https://pannellum.org/images/alma.jpg" alt="Antenas" height="100"/>
 </p>
 
 #### Casual

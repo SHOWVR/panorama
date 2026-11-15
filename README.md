@@ -17,6 +17,7 @@ https://pannellum.org/
 <img src="Nature/Dune.webp" alt="Dune" height="100"/>
 <img src="Nature/lazure.webp" alt="Lazure" height="100"/>
 <img src="Nature/360_2080_Stitch_XHC.jpg" alt="Sea" height="100"/>
+<img src="https://pannellum.org/images/cerro-toco-0.jpg" alt="Cerro-toco" height="100"/>
 </p>
 
 #### Game

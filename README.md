@@ -44,6 +44,7 @@ https://pannellum.org/
 #### Casual
 <p>
   <img src="Casual/SAM_Sample_0001.jpg" alt="Picnic" height="100"/>
+  <img src="Casual/360_2284_Stitch_YHC.JPG" alt="Sadion Śląski" height="100"/>
 </p>
 
 #### Interior

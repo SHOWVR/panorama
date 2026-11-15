@@ -19,6 +19,7 @@ https://pannellum.org/
 <img src="Nature/360_2080_Stitch_XHC.jpg" alt="Sea" height="100"/>
 <img src="https://pannellum.org/images/cerro-toco-0.jpg" alt="Cerro-toco" height="100"/>
 <img src="https://i.imgur.com/G7t9QD9.jpg" alt="desert" height="100"/>
+<img src="https://pannellum.org/images/tocopilla.jpg" alt="tocopilla" height="100"/>
 </p>
 
 #### Game

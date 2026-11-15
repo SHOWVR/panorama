@@ -45,6 +45,11 @@ https://pannellum.org/
 <p>
   <img src="Space/SAM_Sample_0001.jpg" alt="Picnic" height="100"/>
 </p>
+
+#### Interior
+<p>
+  <img src="Interior/SAM_101_0373.jpg" alt="Great" height="100"/>
+</p>
 ---
 ### Links
 - https://panopulse.com/

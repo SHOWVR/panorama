@@ -43,7 +43,7 @@ https://pannellum.org/
 
 #### Casual
 <p>
-  <img src="Space/SAM_Sample_0001.jpg" alt="Picnic" height="100"/>
+  <img src="Casual/SAM_Sample_0001.jpg" alt="Picnic" height="100"/>
 </p>
 
 #### Interior

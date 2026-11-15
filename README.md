@@ -55,6 +55,7 @@ https://pannellum.org/
 <p>
   <img src="Interior/SAM_101_0373.jpg" alt="Great" height="100"/>
   <img src="https://pannellum.org/images/jfk.jpg" alt="JFK" height="100"/>
+  <img src="https://pannellum.org/images/alma-correlator-facility.jpg" alt="ALMA Correlator Facility" height="100"/>
 </p>
 ---
 ### Links
